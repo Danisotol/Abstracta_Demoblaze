@@ -1,0 +1,72 @@
+Product Name: Samsung galaxy s6
+Price: $360
+Link: https://www.demoblaze.com/prod.html?idp_=1
+
+Product Name: Nokia lumia 1520
+Price: $820
+Link: https://www.demoblaze.com/prod.html?idp_=2
+
+Product Name: Nexus 6
+Price: $650
+Link: https://www.demoblaze.com/prod.html?idp_=3
+
+Product Name: Samsung galaxy s7
+Price: $800
+Link: https://www.demoblaze.com/prod.html?idp_=4
+
+Product Name: Iphone 6 32gb
+Price: $790
+Link: https://www.demoblaze.com/prod.html?idp_=5
+
+Product Name: Sony xperia z5
+Price: $320
+Link: https://www.demoblaze.com/prod.html?idp_=6
+
+Product Name: HTC One M9
+Price: $700
+Link: https://www.demoblaze.com/prod.html?idp_=7
+
+Product Name: Sony vaio i5
+Price: $790
+Link: https://www.demoblaze.com/prod.html?idp_=8
+
+Product Name: Sony vaio i7
+Price: $790
+Link: https://www.demoblaze.com/prod.html?idp_=9
+
+Product Name: Samsung galaxy s6
+Price: $360
+Link: https://www.demoblaze.com/prod.html?idp_=1
+
+Product Name: Nokia lumia 1520
+Price: $820
+Link: https://www.demoblaze.com/prod.html?idp_=2
+
+Product Name: Nexus 6
+Price: $650
+Link: https://www.demoblaze.com/prod.html?idp_=3
+
+Product Name: Samsung galaxy s7
+Price: $800
+Link: https://www.demoblaze.com/prod.html?idp_=4
+
+Product Name: Iphone 6 32gb
+Price: $790
+Link: https://www.demoblaze.com/prod.html?idp_=5
+
+Product Name: Sony xperia z5
+Price: $320
+Link: https://www.demoblaze.com/prod.html?idp_=6
+
+Product Name: HTC One M9
+Price: $700
+Link: https://www.demoblaze.com/prod.html?idp_=7
+
+Product Name: Sony vaio i5
+Price: $790
+Link: https://www.demoblaze.com/prod.html?idp_=8
+
+Product Name: Sony vaio i7
+Price: $790
+Link: https://www.demoblaze.com/prod.html?idp_=9
+
