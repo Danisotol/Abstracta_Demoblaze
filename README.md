@@ -8,7 +8,7 @@ Este es un proyecto de prueba automatizada para el sitio web DemoBlaze utilizand
 
 Los scripts automatizan las siguientes tareas en DemoBlaze:
 
-- Navegar por la página 1 y 2 y extraer archivo de texto con lista de productos.
+- Navegar por las paginas 1 y 2 y extraer archivo de texto con lista de productos.
 - Seleccionar un producto, agregarlo al carrito y finalizar la compra.
 - Realizar un login con credenciales predefinidas.
 - Completar un formulario de contacto con información predefinida.
