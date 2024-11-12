@@ -18,3 +18,7 @@ Los scripts automatizan las siguientes tareas en DemoBlaze:
 - Python 3.x instalado.
 - Selenium WebDriver para Python.
 - ChromeDriver
+
+## Credenciales Demoblaze
+Usuario: Chocolate Blanco
+Password: Chocolate
